@@ -6,7 +6,7 @@ my attempt at publishing something into ruby's "npmpackages" thingy
 
 ```
 gem build presmoke.gemspec
-gem install hola-0.0.0.gem
+gem install presmoke-0.0.0.gem
 ```
 
 ## How to publish
